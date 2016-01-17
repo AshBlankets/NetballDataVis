@@ -1,0 +1,69 @@
+1,Saturday 31 March,Time not available,0,2,Netball SA Stadium,57,40
+1,Sunday 1 April,Time not available,3,1,Brisbane Convention and Exhibition Centre,42,47
+1,Sunday 1 April,Time not available,5,8,Trusts Stadium,51,47
+1,Monday 2 April,Time not available,6,9,Stadium Southland Velodrome,49,47
+1,Monday 2 April,Time not available,4,7,Challenge Stadium,55,35
+2,Saturday 7 April,Time not available,8,6,Pettigrew Green Arena,47,42
+2,Sunday 8 April,Time not available,3,0,Brisbane Convention and Exhibition Centre,44,54
+2,Sunday 8 April,Time not available,4,1,Challenge Stadium,41,50
+2,Sunday 8 April,Time not available,9,5,Claudelands Arena,41,47
+2,Monday 9 April,Time not available,7,2,CBS Canterbury Arena,54,51
+3,Sunday 15 April,Time not available,3,8,Brisbane Convention and Exhibition Centre,58,32
+3,Sunday 15 April,Time not available,0,1,Netball SA Stadium,34,48
+3,Sunday 15 April,Time not available,7,6,CBS Canterbury Arena,53,55
+3,Monday 16 April,Time not available,5,4,Trusts Stadium,52,45
+3,Monday 16 April,Time not available,2,9,State Sports Centre,49,47
+4,Saturday 21 April,Time not available,6,4,Lion Foundation Arena,53,56
+4,Sunday 22 April,Time not available,1,9,Hisense Arena,40,39
+4,Sunday 22 April,Time not available,2,3,State Sports Centre,54,49
+4,Sunday 22 April,Time not available,5,0,Trusts Stadium,48,50
+4,Monday 23 April,Time not available,8,7,Te Rauparaha Arena,50,45
+5,Sunday 29 April,Time not available,4,0,Challenge Stadium,36,48
+5,Sunday 29 April,Time not available,1,3,Hisense Arena,52,51
+5,Sunday 29 April,Time not available,8,5,Arena Manawatu,47,51
+5,Monday 30 April,Time not available,9,7,Energy Events Centre,61,52
+6,Sunday 6 May,Time not available,2,8,State Sports Centre,39,36
+6,Sunday 6 May,Time not available,3,5,Gold Coast Convention and Exhibition Centre,56,43
+6,Sunday 6 May,Time not available,9,4,TECT Arena,65,49
+6,Monday 7 May,Time not available,7,1,CBS Canterbury Arena,41,65
+6,Monday 7 May,Time not available,0,6,Netball SA Stadium,58,48
+7,Sunday 13 May,Time not available,0,4,Netball SA Stadium,60,43
+7,Sunday 13 May,Time not available,2,1,Allphones Arena,55,52
+7,Sunday 13 May,Time not available,6,5,Lion Foundation Arena,45,49
+7,Monday 14 May,Time not available,8,9,Te Rauparaha Arena,46,56
+7,Monday 14 May,Time not available,3,7,Brisbane Convention and Exhibition Centre,64,48
+8,Saturday 19 May,Time not available,7,9,CBS Canterbury Arena,42,65
+8,Sunday 20 May,Time not available,1,5,Hisense Arena,45,49
+8,Sunday 20 May,Time not available,2,4,Newcastle Entertainment Centre,52,47
+8,Sunday 20 May,Time not available,6,3,Stadium Southland Velodrome,60,61
+8,Monday 21 May,Time not available,8,0,TSB Bank Arena,47,46
+9,Sunday 27 May,Time not available,4,3,Challenge Stadium,55,56
+9,Sunday 27 May,Time not available,1,2,Hisense Arena,43,49
+9,Sunday 27 May,Time not available,5,7,Trusts Stadium,57,56
+9,Monday 28 May,Time not available,6,8,Lion Foundation Arena,50,58
+10,Sunday 3 June,Time not available,3,2,Brisbane Convention and Exhibition Centre,50,45
+10,Sunday 3 June,Time not available,1,0,Hisense Arena,48,40
+10,Sunday 3 June,Time not available,7,8,CBS Canterbury Arena,47,54
+10,Monday 4 June,Time not available,9,6,Claudelands Arena,66,47
+11,Sunday 10 June,Time not available,0,3,Netball SA Stadium,54,49
+11,Sunday 10 June,Time not available,4,2,Challenge Stadium,49,51
+11,Sunday 10 June,Time not available,9,8,TECT Arena,52,42
+11,Monday 11 June,Time not available,5,6,Trusts Stadium,60,49
+12,Sunday 17 June,Time not available,1,4,Hisense Arena,50,49
+12,Sunday 17 June,Time not available,2,0,State Sports Centre,35,62
+12,Sunday 17 June,Time not available,5,9,Trusts Stadium,46,48
+12,Monday 18 June,Time not available,6,7,Invercargill ILT Velodrome,61,62
+13,Saturday 23 June,Time not available,9,0,TECT Arena,59,42
+13,Sunday 24 June,Time not available,2,6,State Sports Centre,55,42
+13,Sunday 24 June,Time not available,3,4,Brisbane Convention and Exhibition Centre,63,43
+13,Sunday 24 June,Time not available,7,5,CBS Canterbury Arena,55,64
+13,Monday 25 June,Time not available,8,1,Te Rauparaha,41,49
+14,Saturday 30 June,Time not available,6,1,Invercargill ILT Velodrome,38,56
+14,Sunday 1 July,Time not available,0,7,Netball SA Stadium,65,44
+14,Sunday 1 July,Time not available,4,8,Challenge Stadium,40,38
+14,Sunday 1 July,Time not available,5,2,Trusts Stadium,50,49
+14,Monday 2 July,Time not available,9,3,Claudelands Arena,53,43
+15,Sunday 8 July,Time not available,1,5,Rod Laver Arena,56,50
+15,Monday 9 July,Time not available,9,0,Claudelands Arena,49,48
+16,Monday 16 July,Time not available,5,9,Trusts Stadium,48,57
+17,Sunday 22 July,Time not available,1,9,Hisense Arena,38,41

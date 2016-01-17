@@ -1,0 +1,69 @@
+1,Saturday 20 March,2:20 p.m.,5,0,Trusts Stadium,55,52
+1,Sunday 21 March,1:50 p.m.,3,2,Gold Coast Convention and Exhibition Centre,47,50
+1,Sunday 21 March,6:50 p.m.,6,4,Stadium Southland,46,44
+1,Monday 22 March,7:20 p.m.,7,8,Westpac Arena,54,48
+1,Monday 22 March,7:05 p.m.,1,9,Hisense Arena,48,40
+2,Saturday 27 March,2:20 p.m.,8,5,Te Rauparaha Arena,50,61
+2,Saturday 27 March,1:50 p.m.,0,2,ETSA Park,38,45
+2,Sunday 28 March,2:50 p.m.,1,3,Hisense Arena,53,46
+2,Monday 29 March,7:20 p.m.,9,6,Energy Events Centre,47,41
+2,Monday 29 March,5:05 p.m.,4,7,Challenge Stadium,62,44
+3,Saturday 3 April,2:20 p.m.,5,9,Trusts Stadium,46,55
+3,Sunday 4 April,2:50 p.m.,3,0,Brisbane Convention and Exhibition Centre,40,41
+3,Sunday 4 April,6:50 p.m.,7,2,Westpac Arena,53,56
+3,Monday 5 April,7:20 p.m.,6,8,Edgar Centre,56,44
+3,Monday 5 April,6:05 p.m.,4,1,Challenge Stadium,50,64
+4,Saturday 10 April,2:20 p.m.,9,4,Mystery Creek Events Centre,55,50
+4,Saturday 10 April,2:20 p.m.,2,8,State Sports Centre,50,36
+4,Sunday 11 April,2:20 p.m.,0,6,ETSA Park,53,36
+4,Monday 12 April,7:20 p.m.,7,1,Westpac Arena,49,64
+4,Monday 12 April,7:05 p.m.,3,5,Brisbane Convention and Exhibition Centre,71,54
+5,Saturday 17 April,2:20 p.m.,8,0,TSB Bank Arena,40,75
+5,Sunday 18 April,2:50 p.m.,2,4,Newcastle Entertainment Centre,55,43
+5,Sunday 18 April,6:50 p.m.,7,9,Westpac Arena,36,53
+5,Monday 19 April,7:20 p.m.,6,3,Stadium Southland,41,56
+5,Monday 19 April,7:05 p.m.,1,5,Hisense Arena,62,51
+6,Saturday 24 April,2:20 p.m.,5,7,Trusts Stadium,59,50
+6,Sunday 25 April,2:20 p.m.,3,1,Brisbane Convention and Exhibition Centre,62,41
+6,Monday 26 April,7:20 p.m.,8,6,TSB Bank Arena,40,64
+6,Monday 26 April,6:05 p.m.,4,0,Challenge Stadium,37,57
+7,Saturday 1 May,2:20 p.m.,7,6,Westpac Arena,38,66
+7,Sunday 2 May,2:50 p.m.,2,1,Acer Arena,56,42
+7,Monday 3 May,7:20 p.m.,9,5,Mystery Creek Events Centre,49,46
+7,Monday 3 May,7:05 p.m.,3,4,Brisbane Convention and Exhibition Centre,63,57
+8,Saturday 8 May,2:20 p.m.,9,8,Energy Events Centre,56,44
+8,Sunday 9 May,2:50 p.m.,2,0,State Sports Centre,60,44
+8,Monday 10 May,7:20 p.m.,6,5,Stadium Southland,49,52
+8,Monday 10 May,7:05 p.m.,1,4,Hisense Arena,53,56
+9,Saturday 15 May,2:20 p.m.,9,7,Mystery Creek Events Centre,72,52
+9,Sunday 16 May,2:20 p.m.,0,1,ETSA Park,58,47
+9,Monday 17 May,7:20 p.m.,5,8,Trusts Stadium,61,60
+9,Monday 17 May,7:05 p.m.,2,3,State Sports Centre,44,40
+10,Saturday 22 May,2:20 p.m.,8,7,TSB Bank Arena,45,43
+10,Sunday 23 May,2:20 p.m.,0,3,ETSA Park,53,51
+10,Monday 24 May,7:20 p.m.,6,9,Stadium Southland,52,47
+10,Monday 24 May,6:05 p.m.,4,2,Challenge Stadium,52,61
+11,Saturday 29 May,2:20 p.m.,5,2,Trusts Stadium,48,54
+11,Sunday 30 May,2:20 p.m.,0,7,ETSA Park,58,34
+11,Sunday 30 May,6:50 p.m.,6,1,Edgar Centre,52,39
+11,Monday 31 May,7:20 p.m.,9,3,Energy Events Centre,54,55
+11,Monday 31 May,5:05 p.m.,4,8,Challenge Stadium,63,45
+12,Saturday 5 June,2:20 p.m.,5,4,North Shore Events Centre,62,53
+12,Saturday 5 June,2:20 p.m.,3,8,Brisbane Convention and Exhibition Centre,52,42
+12,Sunday 6 June,2:50 p.m.,1,0,Hisense Arena,43,54
+12,Monday 7 June,7:20 p.m.,6,7,Stadium Southland,53,39
+12,Monday 7 June,7:05 p.m.,2,9,State Sports Centre,60,43
+13,Saturday 12 June,2:20 p.m.,8,9,Pettigrew Green Arena,52,58
+13,Saturday 12 June,2:20 p.m.,1,2,Hisense Arena,46,58
+13,Sunday 13 June,2:20 p.m.,0,4,Adelaide Arena,54,45
+13,Monday 14 June,7:20 p.m.,5,6,Trusts Stadium,43,50
+13,Monday 14 June,7:05 p.m.,3,7,Brisbane Convention and Exhibition Centre,75,32
+14,Saturday 19 June,2:20 p.m.,9,0,Energy Events Centre,53,44
+14,Sunday 20 June,12:50 p.m.,4,3,Challenge Stadium,67,59
+14,Sunday 20 June,6:50 p.m.,7,5,Westpac Arena,47,58
+14,Monday 21 June,7:20 p.m.,8,1,Te Rauparaha Arena,48,49
+14,Monday 21 June,7:05 p.m.,2,6,State Sports Centre,55,38
+15,Sunday 27 June,2:50 p.m.,2,0,Acer Arena,38,52
+15,Monday 28 June,7:20 p.m.,9,6,Vector Arena,50,42
+16,Sunday 4 July,2:50 p.m.,2,9,Newcastle Entertainment Centre,49,54
+17,Sunday 11 July,2:30 p.m.,0,9,Adelaide Entertainment Centre,52,42

@@ -1,0 +1,69 @@
+1,Saturday 5 April,2:30 p.m.,8,1,TSB Bank Arena,33,50
+1,Sunday 6 April,1:00 p.m.,3,4,Brisbane Convention & Exhibition Centre,48,46
+1,Sunday 6 April,5:30 p.m.,5,7,Trusts Stadium,44,48
+1,Monday 7 April,7:00 p.m.,9,0,Energy Events Centre,46,42
+1,Monday 7 April,7:00 p.m.,2,6,Acer Arena,53,42
+2,Saturday 12 April,2:30 p.m.,7,2,Westpac Centre,50,44
+2,Sunday 13 April,1:30 p.m.,1,3,State Netball and Hockey Centre,62,52
+2,Sunday 13 April,5:30 p.m.,9,5,Energy Events Centre,56,52
+2,Monday 14 April,7:00 p.m.,8,6,TSB Bank Arena,50,52
+2,Monday 14 April,6:00 p.m.,4,0,Challenge Stadium,41,54
+3,Saturday 19 April,2:30 p.m.,5,4,Trusts Stadium,45,49
+3,Saturday 19 April,2:30 p.m.,2,9,Newcastle Entertainment Centre,50,47
+3,Sunday 20 April,1:30 p.m.,1,0,Vodafone Arena,38,39
+3,Monday 21 April,7:00 p.m.,7,6,Westpac Arena,42,51
+3,Monday 21 April,7:00 p.m.,3,8,Brisbane Convention & Exhibition Centre,56,28
+4,Saturday 26 April,2:30 p.m.,9,4,Mystery Creek Events Centre,61,47
+4,Saturday 26 April,2:30 p.m.,3,5,Brisbane Convention & Exhibition Centre,46,40
+4,Sunday 27 April,1:00 p.m.,0,6,ETSA Park,54,41
+4,Monday 28 April,7:00 p.m.,7,1,Westpac Arena,50,58
+4,Monday 28 April,7:00 p.m.,2,8,Sydney Olympic Park Sports Centre,59,30
+5,Saturday 3 May,2:30 p.m.,9,8,Mystery Creek Events Centre,54,37
+5,Saturday 3 May,12:30 p.m.,4,3,Challenge Stadium,46,65
+5,Monday 5 May,7:00 p.m.,6,5,Stadium Southland,48,50
+5,Monday 5 May,7:00 p.m.,2,1,Newcastle Entertainment Centre,52,53
+6,Saturday 10 May,2:30 p.m.,6,7,Stadium Southland,48,51
+6,Saturday 10 May,2:30 p.m.,3,2,Brisbane Convention & Exhibition Centre,66,52
+6,Monday 12 May,7:00 p.m.,5,9,Trusts Stadium,45,59
+6,Monday 12 May,6:30 p.m.,0,4,ETSA Park,66,50
+7,Saturday 17 May,2:30 p.m.,8,7,Arena Manawatu,50,55
+7,Sunday 18 May,1:00 p.m.,0,1,ETSA Park,46,52
+7,Monday 19 May,7:00 p.m.,9,6,Mystery Creek Events Centre,56,47
+7,Monday 19 May,7:00 p.m.,2,4,Sydney Olympic Park Sports Centre,66,54
+8,Saturday 24 May,2:30 p.m.,7,9,Westpac Arena,50,54
+8,Sunday 25 May,1:30 p.m.,3,1,Brisbane Convention & Exhibition Centre,60,51
+8,Monday 26 May,7:00 p.m.,8,5,TSB Bank Arena,48,54
+8,Monday 26 May,6:30 p.m.,0,2,ETSA Park,44,50
+9,Saturday 31 May,2:30 p.m.,6,8,Stadium Southland,41,29
+9,Sunday 1 June,1:30 p.m.,1,4,State Netball and Hockey Centre,57,44
+9,Monday 2 June,7:00 p.m.,5,7,Trusts Stadium,50,46
+9,Monday 2 June,7:00 p.m.,3,0,Brisbane Convention & Exhibition Centre,41,47
+10,Saturday 7 June,2:30 p.m.,6,1,Stadium Southland,47,46
+10,Sunday 8 June,1:00 p.m.,0,7,ETSA Park,61,41
+10,Sunday 8 June,5:30 p.m.,9,3,Energy Events Centre,56,50
+10,Monday 9 June,7:00 p.m.,5,2,Trusts Stadium,62,64
+10,Monday 9 June,6:00 p.m.,4,8,Challenge Stadium,33,16
+11,Saturday 14 June,2:30 p.m.,5,0,Trusts Stadium,47,48
+11,Sunday 15 June,1:30 p.m.,2,3,Sydney Olympic Park Sports Centre,61,60
+11,Sunday 15 June,5:30 p.m.,7,8,Westpac Centre,50,49
+11,Monday 16 June,7:00 p.m.,6,4,Edgar Centre,58,43
+11,Monday 16 June,7:00 p.m.,1,9,State Netball and Hockey Centre,47,40
+12,Saturday 21 June,2:30 p.m.,8,9,TSB Bank Arena,41,46
+12,Saturday 21 June,12:30 p.m.,4,1,Challenge Stadium,48,54
+12,Sunday 22 June,1:30 p.m.,3,7,Brisbane Convention & Exhibition Centre,50,36
+12,Monday 23 June,7:00 p.m.,5,6,North Shore Events Centre,47,41
+12,Monday 23 June,7:00 p.m.,2,0,Sydney Olympic Park Sports Centre,51,41
+13,Saturday 28 June,2:30 p.m.,5,8,North Shore Events Centre,42,28
+13,Saturday 28 June,2:00 p.m.,0,3,ETSA Park,66,47
+13,Sunday 29 June,11:30 a.m.,4,7,Challenge Stadium,50,44
+13,Monday 30 June,7:00 p.m.,6,9,Stadium Southland,47,43
+13,Monday 30 June,7:00 p.m.,1,2,Vodafone Arena,49,62
+14,Saturday 5 July,2:30 p.m.,9,7,Mystery Creek Events Centre,69,44
+14,Sunday 6 July,1:30 p.m.,1,5,Vodafone Arena,56,47
+14,Sunday 6 July,5:30 p.m.,6,3,Edgar Centre,54,52
+14,Monday 7 July,7:00 p.m.,8,0,Pettigrew Green Arena,32,44
+14,Monday 7 July,6:00 p.m.,4,2,Challenge Stadium,54,63
+15,Sunday 13 July,5:30 p.m.,9,2,Mystery Creek Events Centre,56,57
+15,Monday 14 July,4:30 p.m.,0,1,ETSA Park,53,48
+16,Monday 21 July,7:00 p.m.,9,0,Mystery Creek Events Centre,51,49
+17,Monday 28 July,7:00 p.m.,2,9,Acer Arena,65,56

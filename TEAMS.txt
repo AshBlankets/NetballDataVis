@@ -1,0 +1,10 @@
+Australia,Adelaide Thunderbirds
+New Zealand,Canterbury Tactix
+New Zealand,Central Pulse
+Australia,Melbourne Vixens
+Australia,New South Wales Swifts
+New Zealand,Northern Mystics
+Australia,Queensland Firebirds
+New Zealand,Southern Steel
+New Zealand,Waikato Bay of Plenty Magic
+Australia,West Coast Fever
